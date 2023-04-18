@@ -69,7 +69,7 @@ Admin Content Moderation
 ## Tasks in the feature
 
 * User Registration
-* User Login - Existing user credentials - virajj260@gmail.com / Test@123
+* User Login - Existing user credentials 
 * User Password Reset 
 * User View Profile Details
 * User Edit Profile Details 
